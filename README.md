@@ -2,7 +2,7 @@
 
 ## Prerequisites
 
-- [NodeJS](https://nodejs.org/)
+- [NodeJS](https://nodejs.org/) (tested with v16.17.1)
 
 ## Installation
 
