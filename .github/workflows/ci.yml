@@ -24,4 +24,4 @@ jobs:
         with:
           node-version: ${{ matrix.node-version }}
       - run: npm install
-      - run: npm run ganache & sleep 5 && npx truffle test
+      - run: npx ganache-cli & sleep 5 && npx truffle test

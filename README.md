@@ -1,4 +1,4 @@
-# fluency-simple-firewall
+# fluency-simple-firewall ![build](https://github.com/manosbatsis/fluency-simple-firewall/actions/workflows/ci.yml/badge.svg)
 
 ## Prerequisites
 
