@@ -1,1 +1,28 @@
-# fluency-simple-firewall
+# fluency-simple-firewall ![build](https://github.com/manosbatsis/fluency-simple-firewall/actions/workflows/ci.yml/badge.svg)
+
+## Prerequisites
+
+- [NodeJS](https://nodejs.org/) (tested with v16.17.1)
+
+## Installation
+
+```
+npm install
+```
+
+## Usage
+
+Start Ganache
+```
+npx ganache-cli
+```
+
+Run Tests
+
+```
+npx truffle test
+```
+
+## Credits
+
+Based on https://github.com/miquelcabot/fl_firewall_factory
